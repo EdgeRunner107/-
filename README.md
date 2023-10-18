@@ -10,6 +10,10 @@
 
 크롤링 - 로케이션정보 -마커에추가 - 구글맵에 반영
 
+
+![스크린샷 2023-10-18 131433](https://github.com/EdgeRunner107/Israel_rocket_attack_arl/assets/140359171/daa8ab7f-2e63-41de-8373-014c2cf22d97)
+
+
 이게안되고있는데 이건 물어보도록하겠다
 ![KakaoTalk_20231017_141655943](https://github.com/EdgeRunner107/Israel_rocket_attack_arl/assets/140359171/1dd01247-723d-41c5-aab4-eca3ff262d58)
 
